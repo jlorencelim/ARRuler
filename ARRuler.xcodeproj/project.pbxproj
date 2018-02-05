@@ -57,9 +57,9 @@
 			isa = PBXGroup;
 			children = (
 				187EBFEE2021C68C00C00A84 /* AppDelegate.swift */,
-				187EBFF02021C68C00C00A84 /* art.scnassets */,
 				187EBFF22021C68C00C00A84 /* ViewController.swift */,
 				187EBFF42021C68C00C00A84 /* Main.storyboard */,
+				187EBFF02021C68C00C00A84 /* art.scnassets */,
 				187EBFF72021C68C00C00A84 /* Assets.xcassets */,
 				187EBFF92021C68C00C00A84 /* LaunchScreen.storyboard */,
 				187EBFFC2021C68C00C00A84 /* Info.plist */,
@@ -279,6 +279,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = JARVAZ9G56;
 				INFOPLIST_FILE = ARRuler/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.jlorencelim.ARRuler;
@@ -293,6 +294,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = JARVAZ9G56;
 				INFOPLIST_FILE = ARRuler/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.jlorencelim.ARRuler;
